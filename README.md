@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns
  Performing analysis on Kickstarter data to uncover trends for client Louise's fundraiser
- ##Louise wanted statistical support for the most successful launch of plays in England with:
+ Louise wanted statistical support for the most successful launch of plays in England with:
 - Amount of fundraising
 - Optimum Timing of event
 With the data collected;
